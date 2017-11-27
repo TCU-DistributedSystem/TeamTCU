@@ -14,10 +14,6 @@
 </p>    
 <p align="center">
   <img width="900" height="500" src="https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/src/images/a3.png">
-</p>    
-<p align="center">
-  <img width="900" height="500" src="https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/src/images/a4.png">
-</p>    
 <p align="center">
   <img width="900" height="500" src="https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/src/images/a5.png">
 </p>    
@@ -31,7 +27,7 @@
   <img width="900" height="500" src="https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/src/images/a8.png">
 </p>    
 <p align="center">
-  <img width="900" height="500" src="https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/src/images/a9.png">
+  <img width="900" height="500" src="https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/src/images/a9.PNG">
 </p>    
 ## Quản lý phiên bản
 
