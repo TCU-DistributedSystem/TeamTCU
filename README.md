@@ -1,11 +1,12 @@
 # Đề tài môn học Hệ Thông Phân Tán
 
-# Phần mềm quản lý 
+# Website Khách Sạn Sharaton Nha Trang
 <p align="center">
   <img width="350" height="300" src="http://eclub-tcu.com/pic/tcu.jpg">
 </p>                
 
 # Giao Diện
+
 <p align="center">
   <img width="900" height="500" src="https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/src/images/a1.png">
 </p>    
