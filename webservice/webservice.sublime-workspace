@@ -1,0 +1,1038 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sub",
+				"substr〔function〕"
+			],
+			[
+				"PASS",
+				"PASSWORD_DEFAULT〔constant〕"
+			],
+			[
+				"pass",
+				"password_hash〔function〕"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"ac",
+				"$action〔variable〕"
+			],
+			[
+				"data",
+				"data_insert"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"publi",
+				"public_path〔function〕"
+			],
+			[
+				"da",
+				"$data_input〔variable〕"
+			],
+			[
+				"update",
+				"updateConfig〔function〕"
+			],
+			[
+				"config",
+				"configModel"
+			],
+			[
+				"Con",
+				"ConfigModel〔namespace〕"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"accou",
+				"$account〔variable〕"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"count",
+				"count〔function〕"
+			],
+			[
+				"DB",
+				"DB::select\tRun a select statement against the database."
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"er",
+				"$err〔variable〕"
+			],
+			[
+				"Has",
+				"Hash::make\tHash the given value."
+			],
+			[
+				"time",
+				"time〔function〕"
+			],
+			[
+				"u",
+				"$username〔variable〕"
+			],
+			[
+				"em",
+				"$email〔variable〕"
+			],
+			[
+				"empty",
+				"empty〔function〕"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bs3-in",
+				"bs3-input:text\tbs3-input-text"
+			],
+			[
+				"bs3-bu",
+				"bs3-button:success\tbs3-button-success"
+			],
+			[
+				"upp",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bs3-bt",
+				"bs3-button:warning\tbs3-button-warning"
+			],
+			[
+				"bs3-tab",
+				"bs3-table:responsive\tbs3-table-responsive"
+			],
+			[
+				"Acc",
+				"AccountsModel"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"pro",
+				"protected〔keyword〕"
+			],
+			[
+				"Route",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"Se",
+				"Session::put\tStore an Item in the Session"
+			],
+			[
+				"Sess",
+				"Session"
+			],
+			[
+				"Sesion",
+				"Session::get\tRetrieve an Item from the Session or Default Value"
+			],
+			[
+				"Ses",
+				"Session"
+			],
+			[
+				"Session",
+				"Session::put\tStore an Item in the Session"
+			],
+			[
+				"login",
+				"logined"
+			],
+			[
+				"sesi",
+				"session〔function〕"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"Config",
+				"Config::get\tGet the specified configuration value."
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"lis",
+				"listModule"
+			],
+			[
+				"it",
+				"italic"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"ns",
+				"nbsp\t&nbsp;"
+			],
+			[
+				"aler",
+				"alert-info"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ta",
+				"table"
+			],
+			[
+				"pos",
+				"pos:a\tposition:absolute"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"link",
+				"links\tlink - stylesheet"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"fie",
+				"field_choices"
+			],
+			[
+				"arra",
+				"array_custom"
+			],
+			[
+				"pad",
+				"pad\tpadding"
+			],
+			[
+				"block",
+				"block_tour"
+			],
+			[
+				"glo",
+				"global〔keyword〕"
+			],
+			[
+				"NV",
+				"NV_LANG_VARIABLE"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"pa",
+				"parents〔function〕"
+			],
+			[
+				"po",
+				"pos:r\tposition:relative"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"n",
+				"nbsp\t&nbsp;"
+			],
+			[
+				"i",
+				"i\t<i>"
+			],
+			[
+				"clea",
+				"clearfix"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"e",
+				"animtf-ei\tanimation-timing-function: ease-in;"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"w",
+				"wraper"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"page",
+				"page_title"
+			],
+			[
+				"item",
+				"$item_other_img〔variable〕"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"arr",
+				"array_info_i"
+			],
+			[
+				"ad",
+				"addClass"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"img",
+				"img\timg"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"hea",
+				"header\t<header>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/gop1/client/index.php",
+			"settings":
+			{
+				"buffer_size": 2676,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "checkLogin.php",
+			"settings":
+			{
+				"buffer_size": 507,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/gop1/flyway-5.0.2/conf/flyway.conf",
+			"settings":
+			{
+				"buffer_size": 11955,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 899.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/4324",
+		"/C/xampp/4324/Client-Remote",
+		"/C/xampp/4324/Server"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/gop1/panel_admin/application/config/database.php",
+		"/C/xampp/htdocs/gop1/database/unleashe_hotel.sql",
+		"/C/xampp/htdocs/gop1/webservice-user-webservice/index.php",
+		"/C/xampp/htdocs/gop1/webservice/index.php",
+		"/C/xampp/htdocs/gop1/webservice/config.php",
+		"/C/xampp/htdocs/gop1/webservice-user-webservice/function.php",
+		"/C/xampp/htdocs/gop1/webservice-user-webservice/config.php",
+		"/C/xampp/htdocs/gop1/panel_admin/application/config/config.php",
+		"/D/xampp/htdocs/webservice/index.php",
+		"/D/xampp/htdocs/webservice/function.php",
+		"/E/HOC TAP/Thiet ke va Xay dung Website/QuanLy-DangKyPhongHop/libs/class.database.php",
+		"/D/xampp/htdocs/webservice/config.php",
+		"/D/xampp/htdocs/webservice/.htaccess",
+		"/E/HOC TAP/Thiet ke va Xay dung Website/QuanLy-DangKyPhongHop/login.php",
+		"/D/xampp/htdocs/pysvietnam.dev/.htaccess",
+		"/D/xampp/htdocs/members-1/pages/login.php",
+		"/D/flyway/sql/V1.0.0__Base.sql",
+		"/C/Users/quocdatit/Downloads/users.sql",
+		"/D/flyway/conf/flyway.conf",
+		"/D/flyway/sql/V1.0.0 __Base.sql",
+		"/D/flyway/flyway",
+		"/D/flyway/flyway.cmd",
+		"/D/xampp/htdocs/pysvietnam.dev/config/database.php",
+		"/D/Ampps/www/pysvietnam.dev/config/pys.php",
+		"/D/Ampps/www/pysvietnam.dev/.env",
+		"/D/Ampps/www/pysvietnam.dev/config/app.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Posts/Admin/Models/Category.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Posts/routes.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Posts/Admin/Views/categories/list.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Posts/Admin/Controllers/CategoryController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Posts/Admin/Views/categories/add.blade.php",
+		"/D/Ampps/www/edunuke.dev/themes/thpt2017/layout/header_extended.tpl",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/style.responsive.css",
+		"/D/Ampps/www/pysvietnam.dev/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/D/Ampps/www/pysvietnam.dev/resources/views/admin/layouts/sidebar.blade.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/accounts/add.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/accounts/edit.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/groups/add.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/groups/edit.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/config/index.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/public/admin_default/css/style.css",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/groups/list.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/groups/del.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/auth/login.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Controllers/AuthController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Controllers/AccountsController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/accounts/list.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/accounts/del.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Http/Kernel.php",
+		"/D/Ampps/www/pysvietnam.dev/resources/views/admin/layouts/theme.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/resources/views/admin/layouts/header.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/routes.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Models/Config.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Controllers/ConfigController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/config/index.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Models/Accounts.php",
+		"/C/Users/quocdatit/Downloads/AdminLTE-2.4.0-rc/AdminLTE-2.4.0-rc/pages/forms/advanced.html",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Models/Groups.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Controllers/GroupsController.php",
+		"/D/Ampps/www/pysvietnam.dev/resources/views/admin/layouts/footer.blade.php",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/database.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/config_ini.sieuthivmart.com.php",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/footer_extended.tpl",
+		"/D/Ampps/www/pysvietnam.dev/resources/views/admin/layouts/auth.blade.php",
+		"/D/Ampps/www/nukeviet.dev/admin/upload/config.php",
+		"/D/Ampps/www/nukeviet.dev/admin/upload/uploadconfig.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Contracts/Routing/UrlGenerator.php",
+		"/C/Users/quocdatit/Downloads/AdminLTE-2.4.0-rc/AdminLTE-2.4.0-rc/pages/tables/simple.html",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Models/Auth.php",
+		"/C/Users/quocdatit/Downloads/AdminLTE-2.4.0-rc/AdminLTE-2.4.0-rc/index.html",
+		"/C/Users/quocdatit/Downloads/Pm_Sumi_v4_DemoFull/Pm_Sumi_v4_DemoFull/TCSOFT SUMI DEMO 4.0/TCSOFT SUMI DEMO 4.0.vdproj",
+		"/D/Ampps/www/pysvietnam.dev/config/database.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Admin/Views/login.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/config/session.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Http/Middleware/AuthAdmin.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Session/Store.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Contracts/Session/Session.php",
+		"/D/Ampps/www/pysvietnam.dev/phpunit.xml",
+		"/D/Ampps/www/pysvietnam.dev/composer.json",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Session/Middleware/StartSession.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Session/Middleware/AuthenticateSession.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Foundation/Testing/Concerns/InteractsWithSession.php",
+		"/D/Ampps/www/edunuke.dev/admin/upload/main.php",
+		"/D/Ampps/www/pysvietnam.dev/.git/config",
+		"/D/Ampps/www/pysvietnam.dev/routes/web.php",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/detail.tpl",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Application/routes.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/ServiceProvider.php",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/global.company_info.tpl",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/global.company_info.php",
+		"/D/Ampps/www/pysvietnam.dev/storage/framework/sessions/yC5VyM3kOxITDnKrO5QUF43HQHAkVdaPsIk2WpXM",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Accounts/Front/Controllers/InfoController.php",
+		"/D/Ampps/www/adminer.pysvietnam.dev/adminer.php",
+		"/D/Ampps/www/adminer.pysvietnam.dev/index.php",
+		"/C/Users/quocdatit/AppData/Local/Temp/fz3temp-2/main_procate.tpl",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Application/Admin/Controllers/ApplicationController.php",
+		"/D/FrontEnd/Templates/AdminLTE-master/dist/js/demo.js",
+		"/D/FrontEnd/Templates/AdminLTE-master/dist/js/pages/dashboard.js",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Application/Admin/Views/index.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Application/Admin/Views/dashboard.blade.php",
+		"/C/Users/quocdatit/Downloads/AdminLTE-2.4.0-rc/AdminLTE-2.4.0-rc/dist/js/app.js",
+		"/C/Users/quocdatit/Downloads/AdminLTE-2.4.0-rc/AdminLTE-2.4.0-rc/dist/js/demo.js",
+		"/C/Users/quocdatit/Downloads/AdminLTE-2.4.0-rc/AdminLTE-2.4.0-rc/dist/js/pages/dashboard.js",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Application/Admin/Controllers/DashboardController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/User/routes.php",
+		"/D/Ampps/www/pysvietnam.dev/public/index.html",
+		"/D/Ampps/www/pysvietnam.dev/index.php",
+		"/D/Ampps/www/pysvietnam.dev/.htaccess",
+		"/D/Ampps/www/pysvietnam.dev/public/admin/index.html",
+		"/D/Ampps/www/pysvietnam.dev/routes/api.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/User/Front/Controllers/InfoController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Application/Front/Controllers/ApplicationController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/User/Admin/Views/login.blade.php",
+		"/C/Users/quocdatit/Downloads/AdminLTE-2.4.0-rc/AdminLTE-2.4.0-rc/pages/examples/login.html",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/User/Admin/Controllers/AuthController.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/User/Admin/Views/index.blade.php",
+		"/D/Ampps/www/pysvietnam.dev/.git/description",
+		"/D/Ampps/www/pysvietnam.dev/.git/HEAD",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Routing/Controller.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Http/Controllers/Controller.php",
+		"/D/Ampps/www/pysvietnam.dev/vendor/laravel/framework/src/Illuminate/Support/ServiceProvider.php",
+		"/D/Ampps/www/pysvietnam.dev/app/Modules/Application/Front/Views/index.blade.php"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+			"D:\\Ampps\\www\\pysvietnam.dev",
+			"D:\\Ampps\\www\\sieuthivmart.dev\\themes\\sieuthi\\css",
+			"D:\\Ampps\\www\\sieuthivmart.dev\\themes\\sieuthi\\modules\\users",
+			"D:\\Ampps\\www\\sieuthivmart.dev\\themes\\sieuthi\\modules\\two-step-verification",
+			"D:\\Ampps\\www\\sieuthivmart.dev\\themes\\sieuthi\\modules\\users",
+			"D:\\Ampps\\www\\sieuthivmart.dev\\modules\\shops",
+			"D:\\Ampps\\www\\phuyendulich.com\\modules",
+			"D:\\Ampps\\www\\phuyendulich.com\\modules\\hotel",
+			"D:\\Ampps\\www\\phuyendulich.com\\modules\\travel",
+			"D:\\Ampps\\www\\phuyendulich.com\\modules\\travel\\funcs",
+			"D:\\Ampps\\www\\phuyendulich.com\\modules\\travel",
+			"D:\\Ampps\\www\\pyscustom.dev",
+			"D:\\Ampps\\www\\kh.pys.vn\\modules\\shops\\funcs",
+			"D:\\Ampps\\www\\xdthienanh.com\\ad78",
+			"D:\\Ampps\\www\\amthuctuyhoa.com\\themes\\amthucth\\modules\\users",
+			"D:\\Ampps\\www\\nhahangnhatrang.net\\themes\\hoiquanbia\\modules\\news",
+			"D:\\Ampps\\www\\nukeviet.dev"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"flyway.baseline",
+			"account",
+			"Username",
+			"account",
+			"$email",
+			"$username",
+			"$status",
+			"$repassword",
+			"$password",
+			"$status",
+			"$group",
+			"$email",
+			"$username",
+			"repassword",
+			"$status",
+			"$repassword",
+			"$password",
+			"$group",
+			"$email",
+			"$username",
+			"Thêm",
+			"acc",
+			"AccountsController",
+			"account",
+			"acc->",
+			"acc",
+			"accs",
+			"accModel",
+			"username",
+			"name",
+			"email",
+			"Email",
+			"email",
+			"Email",
+			"email",
+			"username",
+			"Username",
+			"username",
+			"Username",
+			"username",
+			"request",
+			"email",
+			"create",
+			"values",
+			"passthru",
+			"insert",
+			"username",
+			"            \\Illuminate\\Session\\Middleware\\StartSession::class,\n            \\Illuminate\\View\\Middleware\\ShareErrorsFromSession::class,",
+			"\\Illuminate\\Session\\Middleware\\StartSession::class,\n        \\Illuminate\\View\\Middleware\\ShareErrorsFromSession::class,",
+			"https://quocdatit@bitbucket.org/quocdatit/pys-cms.git",
+			"#1a6e66",
+			"#73a33f",
+			";\n",
+			"#73a33f",
+			"#73a33e",
+			"RELATED_NEW",
+			"CONTENT",
+			"content",
+			"CONTENT",
+			"main.field.loop.select.loop",
+			"custom_fields",
+			"GENDER",
+			"btn-primary",
+			"GENDER",
+			"sp_body",
+			"sp_heading",
+			"myblock_sp",
+			"array_mod_title",
+			"breadcrumb",
+			"breadcrumbs",
+			"{IMG_SRC}",
+			"{TITLE}",
+			"{LINK}",
+			"left",
+			";",
+			".logo",
+			"pyscustom",
+			";\">{",
+			"NV_IS_MOD_SHOPS",
+			"global_array_shops_cat",
+			"INSE",
+			"module_data",
+			"module_name",
+			"module_data",
+			"global_bxproduct_center",
+			"avo",
+			";\n",
+			"Tour",
+			"tour",
+			"Tour",
+			"field",
+			"$array_custom[$row['field']]",
+			"hàng",
+			"thumbnail",
+			"hitstotal",
+			"#0163e4",
+			"#026cf9",
+			"#0163e4",
+			"#026cf9",
+			"allowed_print",
+			"typepeice",
+			"gift",
+			"wishlist",
+			"adminlink",
+			"product_code",
+			"imagemodal",
+			"data_row_i",
+			"data_row",
+			".catalogs",
+			"data_row_i",
+			"#becbd2",
+			"#47a3da",
+			"detail_product",
+			"CUSTOM_DATA",
+			"cat_list",
+			"{MODULE_FILE}",
+			"main.price",
+			"detail_",
+			"đơn đặt hàng",
+			"view_gird",
+			"viewcat_page_gird",
+			"pro_config",
+			"data_row_i",
+			"catalogs.items",
+			"{IMG_SRC}",
+			"LINK_CATALOG",
+			"TITLE_CATALOG",
+			"{TITLE0}"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"#18543b",
+			"#01a659",
+			"btn-success",
+			"NV_IS_MOD_HOTELS",
+			"global_array_hotels_cat",
+			"global_bxproduct_center_hotel",
+			"Khách sạn",
+			"khách sạn",
+			"Khách sạn",
+			"#228dd9",
+			"đơn đặt tour",
+			"danh mục tour",
+			"Tour",
+			"tour",
+			"'Tour",
+			"tour",
+			"1200",
+			"bất động sản",
+			"#017b4f",
+			"alert alert-success",
+			"#3eb489",
+			"#128c5f",
+			"#1fab78",
+			"#19a974",
+			"#3eb489",
+			"#069011",
+			"#14b900",
+			"#c9fcc3",
+			"#14b900",
+			"(",
+			"#026cf9",
+			"nv-info margin-bottom",
+			"nv-danger margin-bottom",
+			"#ed1f24",
+			"Roboto"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/gop1/client/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2676,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "checkLogin.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/gop1/flyway-5.0.2/conf/flyway.conf",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7126,
+								7126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2121.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "webservice.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\client\\client.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
