@@ -33,7 +33,12 @@
 ## Quản lý phiên bản
 
 Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiên bản theo hướng phân tán.
+## Báo Cáo
 
+[Xem tại đây](https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/BaoCao-4324%20harry.docx)
+## TestCase
+
+[Xem tại đây](https://github.com/TCU-DistributedSystem/TeamTCU/blob/master/%5BAssignment%5D%5BNhom3%5D%20Testcase%20.xlsx)
 ## Tác giả
 
 * **Trịnh Đình Phúc** |phuccoi996@gmail.com
